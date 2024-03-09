@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **evancherry254@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c09uM1gm-VrXbIZvfZnERDjkNSjXx8TC/view?usp=sharing](https://drive.google.com/file/d/1c09uM1gm-VrXbIZvfZnERDjkNSjXx8TC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fMgrMPvqeCbcaRdDAlhl6gtfkZ45ZTHC/view?usp=sharing](https://drive.google.com/file/d/1fMgrMPvqeCbcaRdDAlhl6gtfkZ45ZTHC/view?usp=sharing)
 
 - ⚡ Fun fact **Love writing , reading & teaching**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evanny254" alt="evanny254" /></a> </p>
