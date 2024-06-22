@@ -15,7 +15,7 @@
 
 - 🌱 **Currently Learning**: Java
 
-- 📝 **Articles**: [Evans Articles](https://evans-kurgat.vercel.app)
+- 📝 **Articles**: [LinkedIn Articles](https://www.linkedin.com/in/evans-kurgat-66ab57181/)
 
 - 💬 **Ask Me About**: JavaScript, React, Python, Flask
 
@@ -24,6 +24,8 @@
 - 📄 **Experiences**: [Resume](https://drive.google.com/file/d/1fMgrMPvqeCbcaRdDAlhl6gtfkZ45ZTHC/view?usp=sharing)
 
 - ⚡ **Fun Fact**: Love Writing, Reading & Coding
+  
+- 🌐 **Portfolio**: [Evans Portfolio Website](https://evans-kurgat.vercel.app)
 
 <br>
 
