@@ -15,7 +15,7 @@
 
 - 🌱 **Currently Learning**: Java
 
-- 📝 **Articles**: [Evans Articles](https://evans-kurgat.vercel.app/blog)
+- 📝 **Articles**: [Evans Articles](https://evans-kurgat.vercel.app)
 
 - 💬 **Ask Me About**: JavaScript, React, Python, Flask
 
