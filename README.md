@@ -25,7 +25,7 @@
 
 - ⚡ **Fun Fact**: Love Writing, Reading & Coding
   
-- 🌐 **Portfolio**: [Evans Portfolio Website](https://evans-kurgat.vercel.app/blog)
+- 🌐 **Portfolio**: [Evans Portfolio Website](https://evans-kurgat.vercel.app)
 
 <br>
 
